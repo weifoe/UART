@@ -59,6 +59,14 @@ tx_data_tb  <= "10001" tx_start='1';
 ![image](https://github.com/user-attachments/assets/ed49f85e-6349-4f79-bce2-e22d7cf7da59)
 - 紅框為rx_ready='1''
 
+  ---
+### TX端
+
+  ![image](https://github.com/user-attachments/assets/17632e57-70b8-491e-b3e9-7822d2af577e)
+
+### RX端
+
+
 
 
 
